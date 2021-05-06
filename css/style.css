@@ -1,0 +1,32 @@
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/container.css);
+@import url(components/cards.css);
+@import url(components/footer.css);
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Inconsolata:wght@200&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  background-color: #201E50;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Amatic SC', cursive;
+  color: #E9B44C;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Inconsolata', monospace;
+  color: #FFFAFF;
+}
+/* Custom design below! */
+
